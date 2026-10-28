@@ -5,6 +5,7 @@
 > [!NOTE]
 > Mi camino de aprendizaje en JavaScript: conceptos, ejemplos y ejercicios
 > prácticos explicados paso a paso.
+> Actualmente estoy desarrollando conceptos intermedios.
 ---
 
 ## Sobre este repositorio
