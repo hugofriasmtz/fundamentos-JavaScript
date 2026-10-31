@@ -30,5 +30,6 @@ La carpeta [`Basico/`](./Basico/) reúne los temas estudiados hasta ahora:
 - Gestión de errores.
 - Métodos de la consola.
 
-Cada tema cuenta con un archivo de ejemplos y, cuando corresponde, un archivo
-de ejercicios:
+La carpeta [`Intermedio/`](./Intermedio/) contiene los temas que estoy desarrollando actualmente:
+
+🚧 En construcción 🚧
